@@ -3,11 +3,11 @@ engines:
     enabled: true
     config:
       languages:
-        ruby:
-        javascript:
-         mass_threshold: 50
-        python:
-        php:
+      - ruby
+      - javascript
+      -  mass_threshold: 50
+      - python
+        php
 ratings:
   paths:
   - Gemfile.lock
