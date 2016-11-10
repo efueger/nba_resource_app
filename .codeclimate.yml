@@ -5,7 +5,7 @@ engines:
       languages:
       - ruby
       - javascript
-      -  mass_threshold: 50
+          mass_threshold: 50
       - python
         php
 ratings:
